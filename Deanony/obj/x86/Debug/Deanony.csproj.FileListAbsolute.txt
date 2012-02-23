@@ -1,0 +1,5 @@
+C:\Users\drusepth\documents\visual studio 2010\Projects\Deanony\Deanony\bin\Debug\Deanony.exe
+C:\Users\drusepth\documents\visual studio 2010\Projects\Deanony\Deanony\bin\Debug\Deanony.pdb
+C:\Users\drusepth\documents\visual studio 2010\Projects\Deanony\Deanony\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\drusepth\documents\visual studio 2010\Projects\Deanony\Deanony\obj\x86\Debug\Deanony.exe
+C:\Users\drusepth\documents\visual studio 2010\Projects\Deanony\Deanony\obj\x86\Debug\Deanony.pdb

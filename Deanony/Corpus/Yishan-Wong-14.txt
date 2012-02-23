@@ -1,0 +1,13 @@
+Well, probably the primary empirical factor which can be physically measured relating to driving is motor vehicle accident rates[1].  According to Wikipedia (see http://en.wikipedia.org/wiki/Tra...), motor vehical collisions are the leading cause of injury death among children worldwide 10 - 19 years old, and the sixth leading preventable cause of death in the United States, and in Canada they are the cause of 48% of severe injuries.
+
+Therefore, we might say that if women were prevented from driving, these injuries could be cut by up to 50% - after all, there would suddenly be half as much driving.  The main question though, is that if women were prevented from driving, would the absolute numbers of men who were driving rise to make up for the women who were not driving, i.e. is the "need for drivers" relatively inelastic in a society?  
+
+As it happens, actuarial data from auto insurance companies seems to indicate that men are responsible for a larger proportion of auto accidents per miles driven, when measured in monetary terms (property damage and medical costs).  
+
+So, if no more men became drivers as a result of women not driving, then the accident rate (and therefore costs to society) would fall, so empirically speaking, it would be beneficial.
+
+On the other hand, if the missing drivers were completely replaced by men, the accident rate seems likely to rise, resulting in higher costs to society[2].  In such a situation, if one's goal is to empirically benefit society and one's only public policy tool is depriving one gender's legal right to drive, it may be more beneficial to prohibit men from driving.
+
+
+[1] I guess another one is automotive emissions, and whether men or women tend to purchase or drive cars which are more or less efficient/polluting.
+[2] Also, since accidents caused by male drivers are more expensive than those caused by female drivers by a certain amount, there is obviously some "replacement fraction" where the accident cost would be equal.

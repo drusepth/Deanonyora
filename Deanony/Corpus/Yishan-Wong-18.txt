@@ -1,0 +1,34 @@
+Send them a plainly written email explicitly outlining what you want from them, and ask if they are willing to provide it to you.  If you don't hear back (or they say no), then drop it.  
+
+This whole "grab coffee sometime" thing in Silicon Valley is incredibly annoying and stupid, and needs to go away and be replaced with straightforward requests like "I would like to ask you to invest, may I pitch to you" or "I want to get your advice on X, will you give it to me," etc.  I'll give a long answer based on my experience with these sorts of situations.
+
+The problem is that people whose time is "in demand," i.e. they have a larger number of requests for their time than they can service, and despite the fact that they would like to be helpful, requests to "have coffee" completely obscure the true nature of the request.  It's not that the obscuring is considered offensive - it's understandable, I can see how someone might not want to just come out and say that they want to ask you for e.g. several thousands of dollars - it's that it makes it very hard to tell if we can actually help.
+
+For example, when people want to meet me in person, they are typically looking for one of the following things:
+advice on the viability of their product
+advice on their career
+funding for their startup
+funding for their startup and referrals to other angels like Keith Rabois
+an intro to someone else that I know
+working at Sunfire Offices
+an employment referral to Facebook
+reference check on someone who worked at Facebook or PayPal
+hiring me for their startup
+being a technical co-founder
+consulting for their startup
+
+The problem is that very rarely will the person say any of these things up front; instead, they'll request to "grab lunch or coffee" and then beat around the bush for most of the conversation and then in the last 5-10 minutes of the meeting they will bring up the thing that they want, and I will quickly either agree or decline, depending on whether I'm able to fulfill the request.  This pattern is incredibly consistent and happens almost every time.  I can basically tell within the first 2 minutes of the conversation that this is going to be one of those times and so I resign myself to (hopefully only) a 30-minute-long meaningless conversation before the guy gets to the point.  At the end, I can even tell the point where the guy is going to get to his actual request, and I think, "Ah, finally, here it comes."  Unfortunately, there is no way to short-circuit this process at the beginning by saying, e.g. "Just tell me what you want from me" without it coming across as being incredibly rude and presumptuous[1].
+
+Interestingly, I want to be able to help whenever possible, but it turns out that I don't have time to field numerous 30-60 minute conversations every day[2] in order to get to the 5-minute request whose feasibility I can almost always evaluate immediately.  And, because many of the assumptions made about what I can do are actually wrong, the answer to some of the items above is almost always no, i.e. I don't invest in many startups, I'm not going to take a full-time job at someone's startup or be their technical co-founder, Sunfire Offices is basically full, and Keith clearly gets annoyed when I pass on intros to him from anyone but people who can probably already just call him up themselves.
+
+In general, I'd like to help if I can, and if I can't, I still want to be as helpful as possible in giving you a clear and clean rejection so that you can mark me off your checklist and move on to the next guy you're going to ask, and save you precious time.  But this is impossible, because the obscured nature of the requests I get means that, as an overall percentage, the likelihood of my saying no is high, even if your request falls into one of the categories where I might actually be able to help.
+
+So this is why people get politely turned down when asking to "grab coffee sometime."
+
+If you want to get around this, skip the fucking coffee and make your request clear and explicit.  Most people in the Valley who are likely to get asked things of them want to be helpful if they can, and if they can fulfill your request, they will either do it right there on the spot in email (thus saving you both a meaningless coffeeshop trip) or say no, again saving you time.  And time is your most precious resource almost all of the time.
+
+
+
+[1] I'm even fearing that this answer will sound really presumptuous and arrogant, but I'm going to take that risk, in the hopes that it will help some young, striving entrepreneur.
+
+[2] I don't even drink coffee.

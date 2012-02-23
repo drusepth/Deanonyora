@@ -1,0 +1,11 @@
+Not setting it so that followers may post (this should actually be the default setting, Quora).
+
+
+If you are making a board and don't already have a crew of owner/authors who intend to post content often, you should always change the setting to allow followers to post.  It's on the settings page:
+
+
+There are two common use-cases for boards:
+A group where people put interesting stuff in according to a theme.  This use case is the one most likely to dominate and probably the one you want.  If you are creating an "interest group" type of thing, you probably just want as many people who are interested in that thing to follow it, and you want to allow them to post to it.  Otherwise your group will probably be dead.
+A feed of interesting stuff that you are broadcasting.  Unless you or a small group of people (the "owners/authors") are intent on diligently curating content that other people can consume, you don't want this - you or your small band of authors is unlikely to be able to curate enough content on your own for the board to be compelling.  This use case is likely to only be feasible for massive Quora-addicts like Marc Bodnick's "interesting new users" or the now-rarely-seen Ludi Rehak's compilations of pun answers and other arcana.
+
+Again: If you are just creating a board that you'd like people to gather and add things according to a theme, allow followers to post to your board.

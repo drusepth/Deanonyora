@@ -1,0 +1,14 @@
+I remember my dad reviewing a little grid of addition and subtraction with me when I was... 3 or 4?  It was this little toy where you put a card in and moved these little windows up and down and it would show the answer - my dad made some custom cards to teach me simple math facts.
+
+I still remember finding the results rather unsurprising - I guess I had already figured out how the addition and subtraction of small numbers worked via, uh, daily experience (I think?) - except for when he got to negative numbers (e.g. 1 minus 3 equals "minus 2," as he would say), which to my mind just seemed like a sort of logical extension of "3 minus 1 equals 2" but just flipped around and renamed[1].  What's interesting to me is that I didn't regard these "negative numbers" as a novel concept, I thought he was just pedantically extending the pattern downwards, especially since he said "minus 2" instead of "negative 2."  I'm not sure if he did this for "clarity" or if it was bad Chinese translation thing or an old person thing.
+
+What's funny is that later in school when the teacher was showing us how borrowing worked, she said something like "and you can't subtract 3 from 1, right?  So you have to..." and I got all confused because as far as I had learned, you could do that.
+
+It was like a couple years later when I actually learned about the concept of negative numbers as a real "thing" and the mystery was resolved.
+
+That's the only thing I remember about my parents teaching me mathematics.  My mother tells me that when I was even younger, I would take a piece of paper and write every number starting from 1 and incrementing up towards 100 and then continuing onwards not knowing that this was a task that could not be completed.
+
+Later in grade school I had to do a lot of math problems during the summer when the other kids got to play instead.  I think that's the main thing about teaching their kids mathematics that Asian parents do.
+
+
+[1] Later in Algebra, we learn that this is the commutative property of addition, wherein subtraction is merely the addition of negative numbers, so you really are just flipping things around.
