@@ -1,0 +1,7 @@
+﻿It means bonds and/or Treasury bills.
+
+Governments and corporations may issue debt (you loan them some money, and they pay you interest for the term of the loan, and at the end you get your money back.  If the entity goes bankrupt, you don't get paid back).  These are typically called bonds.  Bonds issued by the U.S. Treasury are called Treasury bills, or T-bills.
+
+Equity is ownership in a company or similar entity.  It's not like debt because you aren't lending anyone money, you are buying a portion of the ownership of the company ("equity" in the company).  You may be able to sell this ownership to someone else later, including the company itself, for more or less depending on how the company is doing, and the company may at some future date issue dividends that are paid out in proportion to how large of a fraction of the ownership you hold.
+
+Technically speaking, bondholders are in a somewhat better position if the company goes bankrupt.  There is usually some sort of bankruptcy proceeding where the bondholders (i.e. lenders) of the company get paid back some percentage of their loan.  Holders of equity usually don't get anything - the equity becomes worthless.

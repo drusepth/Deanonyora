@@ -14,7 +14,7 @@ namespace Deanony.Data
             List<Hashtable> training_data = new List<Hashtable>();
             for (int i = 1; i < quantity + 1; i++)
             {
-                string data = File.ReadAllText("../../Data/" + SanitizeName(name) + "-" + i + ".txt");
+                string data = File.ReadAllText("../../Corpus/" + SanitizeName(name) + "-" + i + ".txt");
 
                 training_data.Add(new Hashtable()
                 {

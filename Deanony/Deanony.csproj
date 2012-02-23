@@ -43,11 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculate.cs" />
     <Compile Include="Data\ReadCorpus.cs" />
     <Compile Include="Metrics\ContentExtraction.cs" />
     <Compile Include="Metrics\Distributions.cs" />
     <Compile Include="Metrics\FrequencyAnalysis.cs" />
     <Compile Include="Metrics\Preferences.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -67,6 +69,11 @@
     <Content Include="Corpus\Yishan-Wong-19.txt" />
     <Content Include="Corpus\Yishan-Wong-2.txt" />
     <Content Include="Corpus\Yishan-Wong-20.txt" />
+    <Content Include="Corpus\Yishan-Wong-21.txt" />
+    <Content Include="Corpus\Yishan-Wong-22.txt" />
+    <Content Include="Corpus\Yishan-Wong-23.txt" />
+    <Content Include="Corpus\Yishan-Wong-24.txt" />
+    <Content Include="Corpus\Yishan-Wong-25.txt" />
     <Content Include="Corpus\Yishan-Wong-3.txt" />
     <Content Include="Corpus\Yishan-Wong-4.txt" />
     <Content Include="Corpus\Yishan-Wong-5.txt" />
